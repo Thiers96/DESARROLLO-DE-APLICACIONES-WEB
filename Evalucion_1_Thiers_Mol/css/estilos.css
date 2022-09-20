@@ -1,0 +1,19 @@
+:root{
+    /*Paleta de colores*/
+    --titulo : rgb(168, 16, 16); 
+    --parrafo :  rgb(31, 2, 2);
+    --blanco : #fff;
+    --negro : #000;
+    --celeste : rgb(0, 162, 255);
+    --rojo : rgb(175, 0, 0);
+
+    /*Paleta de tamaños*/
+    --tamaño-principal : 33.8rem;
+}
+html{
+    font-size: 70%;
+    background-color: var(--rojo);
+}
+body{
+    font-size: 20px;
+}
